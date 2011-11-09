@@ -1,0 +1,9 @@
+C:\Users\scott.malone\Downloads\3d-cube-rendering\XnaSampleCode\XnaSampleCode\XnaSampleCode\bin\x86\Release\GameThumbnail.png
+C:\Users\scott.malone\Downloads\3d-cube-rendering\XnaSampleCode\XnaSampleCode\XnaSampleCode\bin\x86\Release\Content\Effects\Default.xnb
+C:\Users\scott.malone\Downloads\3d-cube-rendering\XnaSampleCode\XnaSampleCode\XnaSampleCode\bin\x86\Release\XnaSample.exe.config
+C:\Users\scott.malone\Downloads\3d-cube-rendering\XnaSampleCode\XnaSampleCode\XnaSampleCode\bin\x86\Release\XnaSample.exe
+C:\Users\scott.malone\Downloads\3d-cube-rendering\XnaSampleCode\XnaSampleCode\XnaSampleCode\bin\x86\Release\XnaSample.pdb
+C:\Users\scott.malone\Downloads\3d-cube-rendering\XnaSampleCode\XnaSampleCode\XnaSampleCode\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\scott.malone\Downloads\3d-cube-rendering\XnaSampleCode\XnaSampleCode\XnaSampleCode\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\scott.malone\Downloads\3d-cube-rendering\XnaSampleCode\XnaSampleCode\XnaSampleCode\obj\x86\Release\XnaSample.exe
+C:\Users\scott.malone\Downloads\3d-cube-rendering\XnaSampleCode\XnaSampleCode\XnaSampleCode\obj\x86\Release\XnaSample.pdb
